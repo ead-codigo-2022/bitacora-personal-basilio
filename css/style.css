@@ -1,0 +1,9 @@
+.basic-image {
+	float: right;
+}
+.container {
+	max-width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: aqua;
+}
